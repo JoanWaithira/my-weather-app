@@ -7,7 +7,7 @@ export default function App() {
       <footer>
         This project was coded by{" "}
         <a
-          href="hhttps://www.linkedin.com/in/joan-waithira/"
+          href="https://www.linkedin.com/in/joan-waithira/"
           target="_blank"
           rel="noreferrer"
         >
